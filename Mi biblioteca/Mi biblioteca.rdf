@@ -1,0 +1,1317 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S026121942100079X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0261-2194"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bassanezi</foaf:surname>
+                        <foaf:givenName>Renato B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Primiano</foaf:surname>
+                        <foaf:givenName>Isabela V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vescove</foaf:surname>
+                        <foaf:givenName>Humberto V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <link:link rdf:resource="#item_7"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Greening</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HLB management</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Yield loss</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Effect of enhanced nutritional programs and exogenous auxin spraying on huanglongbing severity, fruit drop, yield and economic profitability of orange orchards</dc:title>
+        <dcterms:abstract>Citrus trees infected with ‘Candidatus Liberibacter asiaticus’, the bacterium associated with huanglongbing (HLB), present asymmetric chlorosis and yellow veins on leaves, nutritional deficiencies due to impaired water and nutrient uptake by a reduced root system, and also premature fruit drop and progressive yield reduction. This motivates growers to adopt additional foliar nutritional and auxin plant hormone derivative 2,4-D sprays to try to mitigate HLB damage. However, long-term studies that compare the yield of both well-nourished asymptomatic (AT) and symptomatic trees (ST) under these programs are absent in the literature. This work presents a long-term field study that compared the effect of several enhanced nutritional programs (ENP) and exogenous auxin spray on the progress of HLB severity and on the fruit drop and yield of AT and ST. Moreover, the benefit–cost ratio of each program was estimated. Programs did not contribute to reduce HLB severity over time (mean final HLB severity &gt; 50%). None of the programs contributed to reduce the percentage of fruit drop (remained higher than 40% in symptomatic branches) nor to increase fruit production of ST. Benefit/cost ratio was, on average, 1.49 times higher in AS than in ST. Grower standard nutritional program had the higher benefit-cost ratio (132.8 and 84.7 for AT and ST, respectively) than the others more costly programs. These observations suggest that ENP and 2,4-D sprays are not important in controlling HLB nor mitigating its damages, and their use, instead of removing diseased trees, can build up inoculum within a region. Diseased trees are inoculum source that psyllid vector Diaphorina citri can acquire the bacteria, transmit to a healthy tree, and, consequently, spread HLB. Rigorous vector control by insecticide sprays and eradication of diseased plants are still the best long-term HLB control.</dcterms:abstract>
+        <dc:date>2021-07-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S026121942100079X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 02:10:34</dcterms:dateSubmitted>
+        <bib:pages>105609</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0261-2194">
+        <prism:volume>145</prism:volume>
+        <dc:title>Crop Protection</dc:title>
+        <dc:identifier>DOI 10.1016/j.cropro.2021.105609</dc:identifier>
+        <dcterms:alternative>Crop Protection</dcterms:alternative>
+        <dc:identifier>ISSN 0261-2194</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/Bassanezi et al. - 2021 - Effect of enhanced nutritional programs and exogen.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S026121942100079X/pdfft?md5=031b89d696e8319bcea69c55b4efbd58&amp;pid=1-s2.0-S026121942100079X-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 02:10:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/S026121942100079X.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S026121942100079X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 02:10:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S2405896316315841">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2405-8963"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pourreza</foaf:surname>
+                        <foaf:givenName>Alireza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Won Suk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Etxeberria</foaf:surname>
+                        <foaf:givenName>Ed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Yao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <link:link rdf:resource="#item_10"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Citrus greening</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Disease diagnosis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Image analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Polarization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sensing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Starch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Identification of Citrus Huanglongbing Disease at the Pre-Symptomatic Stage Using Polarized Imaging Technique</dc:title>
+        <dcterms:abstract>Huanglongbing (HLB), also known as yellow shoot or citrus greening, is a devastating disease, associated with ‘Candidatus Liberibacter asiaticus (CLas).’ Unfortunately, there is no effective cure for this disease, and since a tree is infected, it will eventually die. HLB has negatively affected citrus industries in many countries in Africa, Asia, and South America. In 2005, HLB was confirmed in a groove in South Florida, and after a few years, the entire state of Florida got infected. Timely detection and removal of HLB-affected trees are substantially necessary for managing the disease. Accumulation of starch that appears as yellow/light-green islands on the citrus leaf is known as an early diagnostic symptom of HLB. A polarized imaging system was used to follow the hyper-accumulation of starch in leaves of graft-inoculated citrus plants. Time-lapse images of citrus leaves were acquired in a weekly manner after plants were grafted with a disk from another HLB-affected leaf to follow the variation in the images’ gray values at different locations on a leaf. An image analysis algorithm was developed to highlight the regions of citrus leaf samples with an increase in average gray value as an indication of starch accumulation in the pre-symptomatic stage. The proposed method was able to detect successfully any local increase in the image gray values which associates with hyper-accumulation of starch, and consequently, the existence of CLas.</dcterms:abstract>
+        <dc:date>2016-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2405896316315841</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:26:02</dcterms:dateSubmitted>
+        <bib:pages>110-115</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2405-8963">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>5th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture AGRICONTROL 2016</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>49</prism:volume>
+        <dc:title>IFAC-PapersOnLine</dc:title>
+        <dc:identifier>DOI 10.1016/j.ifacol.2016.10.021</dc:identifier>
+        <prism:number>16</prism:number>
+        <dcterms:alternative>IFAC-PapersOnLine</dcterms:alternative>
+        <dc:identifier>ISSN 2405-8963</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Pourreza et al. - 2016 - Identification of Citrus Huanglongbing Disease at .pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2405896316315841/pdf?md5=056ab42dca1bc9435099c79d63840c99&amp;pid=1-s2.0-S2405896316315841-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:26:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/S2405896316315841.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2405896316315841</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:26:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0885576523000711">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0885-5765"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thakuria</foaf:surname>
+                        <foaf:givenName>Dwipendra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaliha</foaf:surname>
+                        <foaf:givenName>Chayanika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dutta</foaf:surname>
+                        <foaf:givenName>Pranab</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sinha</foaf:surname>
+                        <foaf:givenName>Sakshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uzir</foaf:surname>
+                        <foaf:givenName>Panchali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>S. Basanta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hazarika</foaf:surname>
+                        <foaf:givenName>Samarendra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sahoo</foaf:surname>
+                        <foaf:givenName>Lingaraj</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kharbikar</foaf:surname>
+                        <foaf:givenName>L. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Dinesh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <link:link rdf:resource="#item_14"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>‘ liberibacter’</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Citrus greening</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Disease</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Early detection</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Point-of-care detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psyllid</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Citrus Huanglongbing (HLB): Diagnostic and management options</dc:title>
+        <dcterms:abstract>“Huanglongbing” (HLB) or citrus greening is the most devastating diseases of citrus that affects all cultivars causing systematic death of trees worldwide. The disease is associated with the presence of the phloem-limited α-proteobacteria ‘Candidatus Liberibacter asiaticus’, ‘africanus’, and ‘americanus’. The Asian Citrus Psyllid (ACP), is the main vector that transmits the pathogen while feeding the leaves of citrus trees, affecting fruit traits including fruit shape and size, ripening, and quality of fruits and compromising plant health, eventually leading to economic loss to the citrus industry. In this review, the history of HLB, its pathosystem, and geographical distribution with a primary focus on the various diagnostic measures that are in practice are described. The HLB identification in the field is the most challenging task for the growers as the symptoms of asymmetrical, blotchy mottling patterns on leaves are often confused with nutritional deficiency. The unavailability of precise methods for identification of HLB at the initial infection is of major concern. Hence, the development of field-based detection methods could help citrus growers to take protective measures to minimize disease spread in citrus plantations. The review also highlights the existing detection and management options of HLB as well as the perspectives in this research field.</dcterms:abstract>
+        <dc:date>2023-05-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Citrus Huanglongbing (HLB)</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0885576523000711</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:29:13</dcterms:dateSubmitted>
+        <bib:pages>102016</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0885-5765">
+        <prism:volume>125</prism:volume>
+        <dc:title>Physiological and Molecular Plant Pathology</dc:title>
+        <dc:identifier>DOI 10.1016/j.pmpp.2023.102016</dc:identifier>
+        <dcterms:alternative>Physiological and Molecular Plant Pathology</dcterms:alternative>
+        <dc:identifier>ISSN 0885-5765</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Thakuria et al. - 2023 - Citrus Huanglongbing (HLB) Diagnostic and managem.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0885576523000711/pdfft?md5=45e279e2aea533f0bfa282c8aabbd44d&amp;pid=1-s2.0-S0885576523000711-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:29:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/14/S0885576523000711.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0885576523000711</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-10 03:29:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://rcs.cic.ipn.mx/2019_148_7/Deteccion%20de%20enfermedades%20en%20el%20sector%20agricola%20utilizando%20Inteligencia%20Artificial.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1870-4069"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roldán Ortega</foaf:surname>
+                        <foaf:givenName>Balzhoyt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roshan Biswal</foaf:surname>
+                        <foaf:givenName>Rajesh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sánchez DelaCruz</foaf:surname>
+                        <foaf:givenName>Eddy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_35"/>
+        <dc:title>Detección de enfermedades en el sector agrícola utilizando Inteligencia Artificial</dc:title>
+        <dcterms:abstract>The present article, exposes several works of investigation on the possibility of detecting diseases in the agricultural crops, using artificial intelligence techniques. The authors of these works, proposed different techniques for obtaining leaf or fruits characteristics of plants, using classification or clustering algorithms, in order to determine whether or not, a leaf showed signs of disease. Depending on the disease and the plant type, adequate algorithms with the optimum results were proposed. It can be concluded that, it is possible to detect leaf diseases, thereby benefitting the farmer directly. M oreover, a timely diagnosis would result in an effective treatment of the disease, thus avoiding the risk of any economic loss as result.</dcterms:abstract>
+        <dc:date>2019-12-31</dc:date>
+        <z:language>es</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rcs.cic.ipn.mx/2019_148_7/Deteccion%20de%20enfermedades%20en%20el%20sector%20agricola%20utilizando%20Inteligencia%20Artificial.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 00:18:34</dcterms:dateSubmitted>
+        <bib:pages>419-427</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1870-4069">
+        <prism:volume>148</prism:volume>
+        <dc:title>Research in Computing Science</dc:title>
+        <dc:identifier>DOI 10.13053/rcs-148-7-31</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>RCS</dcterms:alternative>
+        <dc:identifier>ISSN 1870-4069</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/Roldán Ortega et al. - 2019 - Detección de enfermedades en el sector agrícola ut.pdf"/>
+        <dc:title>Roldán Ortega et al. - 2019 - Detección de enfermedades en el sector agrícola ut.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rcs.cic.ipn.mx/rcs/2019_148_7/Deteccion%20de%20enfermedades%20en%20el%20sector%20agricola%20utilizando%20Inteligencia%20Artificial.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 00:18:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dx.doi.org/10.1186/s13007-021-00745-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1746-4811"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xuewei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Xiaoning</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_42"/>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Early real-time detection algorithm of tomato diseases and pests in the natural environment</dc:title>
+        <dc:date>2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.doi.org/10.1186/s13007-021-00745-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: Springer Science and Business Media LLC</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1746-4811">
+        <prism:volume>17</prism:volume>
+        <dc:title>Plant Methods</dc:title>
+        <dc:identifier>DOI 10.1186/s13007-021-00745-2</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Plant Methods</dcterms:alternative>
+        <dc:identifier>ISSN 1746-4811</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Attachment</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kp-pdf.s3.amazonaws.com/094b003f-040d-4c29-bde0-442970f131ea.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAUROH2NUQSIQZIEG4%2F20230513%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230513T032635Z&amp;X-Amz-Expires=600&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=5178d550bda21172a8dc4abaf967c95cc4aa5112bc5b1065615fc30ee452eb19</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 03:26:37</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/Wang et al. - 2021 - Early real-time detection algorithm of tomato dise.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-021-00745-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:00:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/67/Wang et al. - 2021 - Early real-time detection algorithm of tomato dise.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-021-00745-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:00:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0925521421003471">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0925-5214"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Zhipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jin</foaf:surname>
+                        <foaf:givenName>Luoyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Shuai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Huirong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_68"/>
+        <link:link rdf:resource="#item_46"/>
+        <link:link rdf:resource="#item_50"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Algorithmic optimization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Apple stem/calyx</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Real-time recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>YOLO-v5</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Apple stem/calyx real-time recognition using YOLO-v5 algorithm for fruit automatic loading system</dc:title>
+        <dcterms:abstract>Fruit loading and packaging are still labor-intensive tasks during postharvest commercialization, of which the key issues is to realize the real-time detection and adjustment of fruit posture. However, fruit stem/calyx position is a key structural characteristic for fruit posture and will also affect fruit internal quality detection. In this paper, an image acquisition system based on fruit posture adjustment equipment was set up, and the YOLO-v5 algorithm based on deep learning was used to study the real-time recognition of stem/calyx of apples. First, hyperparameters were determined, and the training method of transfer learning was used to obtain better detection performance; then the networks with different widths and depths were trained to find the best baseline detection net; finally, the YOLO-v5 algorithm was optimized for this task by using detection head searching, layer pruning and channel pruning. The results showed that under the same setting conditions, YOLO-v5s had a more superior usability and could be selected as the baseline network considering detection performance, model weight size, and detection speed. After optimization, the complexity of the algorithm was further reduced. The model parameters and weight volume were decreased by about 71 %, while mean Average Precision (mAP) and F1-score (F1) were only decreased by 1.57 % and 2.52 %, respectively. The optimized algorithm could achieve real-time detection under CPU condition at a speed of 25.51 frames per second (FPS). In comparison with other deep learning target detection algorithms, the algorithm used in this paper was similar to other lightweight networks in complexity. Its mAP and F1 were 0.880 and 0.851, respectively. This was better than other one-stage object detection algorithms in detection ability, only lower than that of Faster R-CNN. The optimized YOLO-v5s achieved 93.89 % accuracy in fruit stem/calyx detection for different cultivars of apples. This research could lay the foundation for the automation of fruit loading and packing systems.</dcterms:abstract>
+        <dc:date>2022-03-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0925521421003471</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:02:10</dcterms:dateSubmitted>
+        <bib:pages>111808</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0925-5214">
+        <prism:volume>185</prism:volume>
+        <dc:title>Postharvest Biology and Technology</dc:title>
+        <dc:identifier>DOI 10.1016/j.postharvbio.2021.111808</dc:identifier>
+        <dcterms:alternative>Postharvest Biology and Technology</dcterms:alternative>
+        <dc:identifier>ISSN 0925-5214</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_68">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Category: Antecedente&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/S0925521421003471.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0925521421003471</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:02:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/50/S0925521421003471.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0925521421003471</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:03:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://repository.unad.edu.co/handle/10596/42374">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guzmán</foaf:surname>
+                        <foaf:givenName>Sierra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yineth</foaf:surname>
+                        <foaf:givenName>Viviana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:title>Algoritmo de detección de mosca blanca por medio de inteligencia artificial en las hojas de plátano.</dc:title>
+        <dcterms:abstract>En el presente artículo se propone un algoritmo de detección de mosca blanca en la planta de plátano mediante inteligencia artificial, con el fin de que el monitoreo e identificación se hagan de forma oportuna y que la producción satisfaga las necesidades del mercado. Para desarrollar la solución fue utilizado el software Matlab en el cual mediante instrucciones de código se realizó la implementación de técnicas de procesamiento de imágenes tales como cambios de modelo de color, umbralización, binarización, filtros de tipo Sobel y por rango y aplicación de operaciones morfológicas. Dicho algoritmo cuenta con un clasificador de tipo supervisado específicamente una máquina de soporte vectorial que fue entrenada para la detección y clasificación de las hojas sanas y con plaga de mosca blanca.</dcterms:abstract>
+        <dc:date>2021-09-04</dc:date>
+        <z:language>es</z:language>
+        <z:libraryCatalog>repository.unad.edu.co</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repository.unad.edu.co/handle/10596/42374</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:06:18</dcterms:dateSubmitted>
+        <dc:description>Accepted: 2021-09-21T23:24:20Z</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/54/Guzmán y Yineth - 2021 - Algoritmo de detección de mosca blanca por medio d.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repository.unad.edu.co/bitstream/10596/42374/3/vysierrag.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:06:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.recimundo.com/index.php/es/article/view/1076">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2588-073X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viracucha</foaf:surname>
+                        <foaf:givenName>Bryan Alexander Sango</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orellana</foaf:surname>
+                        <foaf:givenName>Cinthya Geraldine Chanaluisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casa</foaf:surname>
+                        <foaf:givenName>Alex Christian Llano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_60"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Comparación</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Inteligencia Artificial</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plagas</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Redes Neuronales Convolucionales</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Rosas Freedom</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sistema inteligente para el análisis de plagas en plantas rosas Freedom aplicando redes neuronales</dc:title>
+        <dcterms:abstract>Resumen
+					La producción florícola se ha convertido en uno de los ejes principales de exportaciones en el Ecuador como son las rosas de variedad Freedom, que son comercializadas a nivel nacional e internacional. Los floricultores han llegado analizar que las rosas pueden ser infectadas por plagas y ocasionar perdidas económicas, esto ocurre por la gran cantidad de humedad relativa o por sequía, las plagas se ubican generalmente en las hojas, en los tallos y botón foliar, en donde deben ser controladas a tiempo, aplicando procedimientos como la fumigación para mantener un control sobre las rosas de variedad Freedom. El objetivo es utilizar técnicas de inteligencia artificial como Redes Neuronales mediante el análisis de imágenes obtenidas en el muestreo de las rosas para discernir entre los tipos de plagas que afecta a la variedad Freedom, usando metodología de investigación de campo como encuestas, entrevistas y observación para identificar la necesidad de la investigación realizada luego de la ejecución del algoritmo Redes Neuronales Convolucionales, se ha obtenido como resultados que es factible la comparación de facciones de cada uno de las plagas identificadas encontrando que existe dos tipos de plagas que afectan la producción y la cosecha de las rosas Freedom, en donde se tomó en cuenta el análisis por semana a través de tablas de comparación de las plagas situadas en las plantas. La utilización de técnicas de inteligencia artificial en el sector floricultor ayuda a tener un control de calidad y de estadía de las rosas variedad Freedom evitando perdidas económicas.</dcterms:abstract>
+        <dc:date>2021-06-30</dc:date>
+        <z:language>es</z:language>
+        <z:libraryCatalog>www.recimundo.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.recimundo.com/index.php/es/article/view/1076</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:07:14</dcterms:dateSubmitted>
+        <dc:rights>Derechos de autor 2021 Bryan Alexander Sango Viracucha, Cinthya Geraldine Chanaluisa Orellana, Alex Christian Llano Casa</dc:rights>
+        <dc:description>Number: 2</dc:description>
+        <bib:pages>344-357</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2588-073X">
+        <prism:volume>5</prism:volume>
+        <dc:title>RECIMUNDO</dc:title>
+        <dc:identifier>DOI 10.26820/recimundo/5.(2).abril.2021.344-357</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2588-073X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/60/Viracucha et al. - 2021 - Sistema inteligente para el análisis de plagas en .pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.recimundo.com/index.php/es/article/download/1076/1735</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 05:07:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/66465">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UCV</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Godoy Francisco</foaf:surname>
+                        <foaf:givenName>Vady Lee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <dc:title>Algoritmo de diagnóstico preliminar de neumonía a partir de imágenes radiográficas del tórax</dc:title>
+        <dcterms:abstract>El problema de la investigación fue: ¿Cuál fue el efecto del algoritmo de 
+transferencia de aprendizaje en la sensibilidad, especificidad, exactitud, 
+precisión y tiempo de diagnóstico preliminar de neumonía a través de imágenes 
+radiográficas del tórax? El objetivo de la investigación fue determinar el efecto 
+del algoritmo de transferencia de aprendizaje en la sensibilidad, especificidad, 
+exactitud, precisión y tiempo de diagnóstico preliminar de neumonía a través de 
+imágenes radiográficas del tórax. El tipo de investigación fue cuantitativa, el 
+diseño fue experimental porque se estableció el posible efecto de una causa que 
+se manipula y el tipo de diseño de investigación fue pre-experimental porque a 
+un grupo se le aplica una pre-prueba, después se le administra el tratamiento y 
+finalmente se aplica una posprueba al estímulo.   
+Se evaluó 5040 imágenes de rayos X de tórax de la Dataset- Pneumonia 
+pública. Comparando los resultados de esta investigación con el algoritmo 
+Resnet50, se obtuvo lo siguiente: un incremento de la sensibilidad en 0.69%, una 
+reducción de la especificidad de 1.83%, una reducción de la exactitud de 0.74%, 
+un incremento de la precisión de 0.02% y una reducción de tiempo de 78.62%.   
+El uso del algoritmo de transferencia de aprendizaje para el diagnóstico 
+preliminar de neumonía a partir de imágenes de radiográficas de tórax 
+incrementó la sensibilidad y la precisión y hubo una reducción de la especificidad, 
+de la exactitud y del tiempo con respecto al algoritmos con técnicas Resnet50. 
+Finalmente, se presentó recomendaciones para futuras investigaciones.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/66465</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 16:44:13</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2021-08-24T19:55:00Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/Godoy Francisco - 2020 - Algoritmo de diagnóstico preliminar de neumonía a .pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/66465/1/Godoy_FVL-SD.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 16:44:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_69">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UPN</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Urteaga Montoya</foaf:surname>
+                        <foaf:givenName>Javier Alejandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Medina Cercado</foaf:surname>
+                        <foaf:givenName>Jose Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_71"/>
+        <link:link rdf:resource="#item_72"/>
+        <dc:title>Impacto de la aplicación móvil “Healthy Plant” para detectar enfermedades foliares en cultivos de aguaymanto haciendo uso de inteligencia artificial con Custom Vision en la ciudad de Cajamarca 2021</dc:title>
+        <dcterms:abstract>En la actualidad existe una creciente preocupación de los agricultores a la hora de ver crecer  
+sus cultivos de aguaymanto (Physalis peruviana L.) debido a los diferentes tipos de  
+enfermedades foliares que los afectan. Siendo conscientes de la problemática observada, se  
+desarrolló una aplicación móvil llamada “Healthy Plant”, que haciendo uso de la inteligencia  
+artificial con Custom Vision, fue capaz de detectar las enfermedades foliares que esté  
+sufriendo el cultivo de aguaymanto. Healthy Plant permitió a los agricultores capturar la  
+imagen de la hoja, o en su lugar, poder seleccionarla desde la fuente de almacenamiento del  
+dispositivo. Las imágenes de las enfermedades foliares cargadas previamente a la iteración  
+fueron consideradas el entrenamiento del modelo predictivo. La imagen de la hoja  
+proveniente del dispositivo móvil fue cotejada con las distintas enfermedades foliares  
+categorizadas a través de tags o etiquetas en una misma iteración dentro del servicio, lo que  
+dio como resultado la identificación y reconocimiento de la enfermedad foliar que presenta  
+el cultivo. Se concluyó que, de acuerdo a la prueba de hipótesis realizada (p &lt; 0.05), la  
+aplicación móvil Healthy Plant impactó positivamente en la detección de enfermedades  
+foliares en cultivos de aguaymanto. Mediante la aplicación de la encuesta se determinó que  
+el 73,3% de productores identifican un mínimo de 30 plantas con alguna enfermedad foliar;  
+se redujo de manera significativa el tiempo de detección de la enfermedad y que el porcentaje  
+de pérdida de cosecha, en un nivel moderado, se ve reducido en un 26%.</dcterms:abstract>
+        <dc:date>2021-07-07</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>renati.sunedu.gob.pe</z:libraryCatalog>
+        <dcterms:dateSubmitted>2023-05-13 17:18:25</dcterms:dateSubmitted>
+        <dc:rights>Atribución-NoComercial-CompartirIgual 3.0 Estados Unidos de América</dc:rights>
+        <dc:description>Accepted: 2021-10-28T16:35:09Z
+Publisher: Universidad Privada del Norte</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/3004368.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://renati.sunedu.gob.pe/handle/sunedu/3004368?mode=full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:21:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/72/Urteaga Montoya y Medina Cercado - 2021 - Impacto de la aplicación móvil “Healthy Plant” par.pdf"/>
+        <dc:title>Urteaga Montoya y Medina Cercado - 2021 - Impacto de la aplicación móvil “Healthy Plant” par.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.upn.edu.pe/bitstream/handle/11537/28251/Tesis.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:21:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://repositorio.utc.edu.ec/handle/27000/8625">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Ecuador: Latacunga: Universidad Técnica de Cotopaxi (UTC).</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gamboa Murillo</foaf:surname>
+                        <foaf:givenName>Patricio Alejandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López Miniguano</foaf:surname>
+                        <foaf:givenName>Isaac Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>“Desarrollo de un prototipo para el reconocimiento de plagas en plantaciones de babaco bajo invernadero utilizando redes neuronales”.</dc:title>
+        <dcterms:abstract>El presente proyecto de investigación está enfocado en la detección de plagas que se dan en las plantas de babaco, es decir se hace un análisis técnico por medio de expertos y a través de revisiones bibliográficas considerando para este proyecto el procesamiento de imágenes mediante el entrenamiento con redes neuronales convolucionales cuyos resultados se reflejaran en una interfaz móvil, la misma que fue diseñada para los agricultores de este tipo de plantaciones.  
+Para el desarrollo del entrenamiento de la red neuronal se empleó la metodología de desarrollo evolutivo, mediante el uso de herramientas de programación se usaron Google Colab como plataforma de desarrollo, Phyton como lenguaje de programación, la librería Open CV para el procesamiento de imágenes y Android Studio el cual se utilizó para crear la interfaz móvil. Para el entrenamiento y la prueba de la red neuronal se utilizaron 2500 imágenes de plagas en hojas y frutos basadas en fotografías. Para establecer el tipo de plaga se usó el procesamiento de imágenes en un banco de cincuenta fotografías por plaga mediante dos procesos de entrenamiento de la red neuronal, obteniendo como resultados de efectividad 93,75% y 100% de exactitud.</dcterms:abstract>
+        <dc:date>2021-08</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.utc.edu.ec</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repositorio.utc.edu.ec/handle/27000/8625</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:31:21</dcterms:dateSubmitted>
+        <dc:rights>openAccess</dc:rights>
+        <dc:description>Accepted: 2022-06-09T20:33:37Z</dc:description>
+        <z:type>bachelorThesis</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/Gamboa Murillo y López Miniguano - 2021 - “Desarrollo de un prototipo para el reconocimiento.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repositorio.utc.edu.ec/bitstream/27000/8625/1/PI-001947.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:31:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://repositorio.unamad.edu.pe/handle/20.500.14070/889">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Universidad Nacional Amazónica de Madre de Dios - UNAMAD</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diaz Holgado</foaf:surname>
+                        <foaf:givenName>Romario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vilcas Villalba</foaf:surname>
+                        <foaf:givenName>Denis Ricardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <dc:title>Aplicativo móvil para la detección de la enfermedad del Mosaico común en la yuca (Manihot esculenta) utilizando redes neuronales convolucionales, 2021</dc:title>
+        <dcterms:abstract>Esta tesis tiene como finalidad, implementar un Aplicativo Móvil que, usando 
+un Modelo de Red Neuronal Convolucional, sea capaz de detectar la 
+enfermedad del mosaico a través de las hojas de la yuca. Se recolectó 3400 
+imágenes de hojas de yuca, donde 3000 sirvieron como entrenamiento y 400 
+para validación. El diseño usado en esta investigación es de tipo preexperimental. 
+ 
+El tipo de estudio utilizado es Aplicada y el Nivel de 
+investigación es de tipo descriptiva.  Se tomaron las 400 fotografías 
+correspondientes a la validación, con un celular REDMI NOTE con cámara 
+trasera de 48 Mpx y cámara frontal de 32 Mpx, haciendo uso de la cámara 
+trasera para tomar las fotografías, de las cuales 200 de ellas son hojas sanas 
+y 200 son hojas enfermas, y para su posterior implementación se trabajó con 
+la asociación civil “Unidos Tres Estrellas”. Para la variable dependiente se 
+consideró el uso de encuestas y un muestreo sistemático en grilla, para la 
+variable interviniente se consideraron las métricas arrojadas por defecto por 
+la biblioteca de software Tensorflow 2.0, y finalmente utilizó la escala de Likert 
+para la medición de la variable independiente. Teniendo como resultado la 
+validez de las hipótesis tanto general como específicas. Concluyendo así que 
+la implementación de un Aplicativo Movil, mejora el proceso de detección de 
+la enfermedad del mosaico en la asociación civil “Unidos Tres Estrellas”, 
+además que se desarrolló una arquitectura propia y adecuada de la Red 
+Neuronal Convolucional para la clasificación correcta de las imágenes y se 
+determinó que la eficacia de la aplicación influye en gran manera en el proceso 
+para la detección de la enfermedad del mosaico.</dcterms:abstract>
+        <dc:date>2022-11-21</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.unamad.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repositorio.unamad.edu.pe/handle/20.500.14070/889</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:35:37</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2022-11-21T13:54:46Z
+Publisher: Universidad Nacional Amazónica de Madre de Dios</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Diaz Holgado y Vilcas Villalba - 2022 - Aplicativo móvil para la detección de la enfermeda.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://repositorio.unamad.edu.pe/bitstream/20.500.14070/889/1/004-2-2-015.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:35:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/81826">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UCV</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huanca Vega</foaf:surname>
+                        <foaf:givenName>Anthony Cristhian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_83"/>
+        <dc:title>Aplicación móvil para el diagnóstico preliminar del oídio en la uva a través de imágenes digitales</dc:title>
+        <dcterms:abstract>Esta investigación tiene el propósito de implementar una aplicativo para el 
+diagnóstico preliminar alusivo al oídio en las plantas de la uva, a partir de imágenes 
+digitales. 
+En la investigación tiene un enfoque cuantitativo, de tipo aplicada y se basa en una 
+investigación experimental del tipo preexperimental, en donde utilizamos todas las 
+variables haciendo uso de dos grupos experimentales en la población, formado por 
+las uvas infectadas con oídio (grupo experimental) y las uvas que están sanas o no 
+están infectadas por el oídio (grupo de control). Los indicadores establecidos para 
+este proyecto son la sensibilidad y especificidad. 
+Ante la implementación de una aplicación móvil se obtuvo un resultado de 90.3% a 
+99,00% en el indicador de la sensibilidad y en la especificidad se obtuvo de 92.38% 
+a 96,00%. Concluyendo así, que la aplicación móvil ayuda el diagnostico preliminar 
+del oído a través de imágenes digitales. 
+El trabajo de investigación será desarrollado en la plataforma de Android Studio 
+como desarrollo de entorno de una app.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/81826</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:40:01</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2022-02-27T17:58:35Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/83/Huanca Vega - 2021 - Aplicación móvil para el diagnóstico preliminar de.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/81826/8/Huanca_VAC-SD.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:40:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/102700">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UCV</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuellar Pinedo</foaf:surname>
+                        <foaf:givenName>Juan Augusto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peña Parco</foaf:surname>
+                        <foaf:givenName>Moisés Emmanuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_85"/>
+        <dc:title>Algoritmo para el diagnóstico preliminar de caries y área afectada del diente en base al algoritmo de búsqueda de pixeles y la librería Skimage</dc:title>
+        <dcterms:abstract>La presente investigación abarcó el desarrollo de un sistema experto para el 
+diagnóstico preliminar de caries. El objetivo de la investigación fue determinar la 
+precisión del diagnóstico teniendo en cuenta la especificidad y sensibilidad, 
+asimismo, la eficiencia del sistema en base al tiempo. La investigación se llevó a 
+cabo, a través del enfoque cuantitativo, diseño pre-experimental; además, para el 
+estudio se utilizó una muestra de 200 imágenes, que cumplieron los criterios de 
+inclusión: dientes con caries y los criterios de exclusión: dientes que no presentan 
+caries. Por otra parte, la técnica de recolección de datos fue la observación y el 
+instrumento fue el registro de observación de tipo estructurada. 
+Los resultados referentes al efecto del algoritmo de búsqueda de pixeles y la librería 
+Skimage en el diagnóstico preliminar de las caries evidenciaron una mejora de la 
+sensibilidad a un 89.6% y la especificidad a un 93.3%. Ante ello, se concluyó que el 
+diagnóstico de caries a través de un sistema experto mejoró el proceso de 
+diagnóstico de los pacientes del servicio de odontología en comparación con el 
+proceso de diagnóstico tradicional. Finalmente, se recomendó elaborar nuevos 
+algoritmos fusionando algoritmos existentes para lograr una mejor precisión en el 
+diagnóstico de caries, tales como: el algoritmo de red neuronal artificial RNA y el 
+algoritmo de aprendizaje profundo, ya que estos algoritmos ayudarán a nuevos 
+proyectos ser más exactos en la detección de caries.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/102700</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:41:43</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2022-11-28T20:24:05Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/85/Cuellar Pinedo y Peña Parco - 2019 - Algoritmo para el diagnóstico preliminar de caries.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/102700/4/Cuellar_PJA-Pe%c3%b1a_PME-SD.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:41:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/25620">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Universidad César Vallejo</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gamboa Jara</foaf:surname>
+                        <foaf:givenName>Katherin Brigitte</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>Aplicación móvil para el diagnóstico preliminar de micosis superficiales a través de fotografías digitales</dc:title>
+        <dcterms:abstract>La presente tesis nos detalla de forma explícita la funcionalidad sobre el desarrollo de la 
+información y el diseño de un aplicativo móvil, el cual está orientado a generar como 
+resultado un diagnostico preliminar referente a las micosis superficiales, mediante el 
+análisis fractal de fotografías digitales, este aplicativo así mismo tendrá acceso a una base 
+de datos de imágenes adquiridas de una fuente confiable.    
+ Este proyecto se basará en un tipo de investigación experimental, puesto que se 
+manipularán todas las variables además que habrá la división en dos grupos de nuestra 
+población, siendo uno el grupo de personas enfermas (grupo experimental) y otro el grupo 
+de personas sanas (grupo de control). Por ello se establecieron a su vez dos eficaces 
+indicadores, los cuales son la sensibilidad y especificidad, los mismos que nos permiten 
+identificar correctamente a las personas en los grupos mencionados anteriormente. Con 
+el fin de que esta pueda tener un porcentaje mayor al 70% en sensibilidad y especificidad.    
+ Asimismo, el presente trabajo será realizado con Ionic ,un framework que nos ayudará a 
+desarrollar nuestro proyecto y poder compilarla tanto para dispositivos Android como 
+dispositivos Ios. Concluimos así que esta aplicación tiene muchas ventajas competitivas 
+sobre otras relacionadas a diagnósticos de enfermedades dermatológicas, puesto que el 
+estudio de aplicativos para la micosis es reciente, teniendo así una gran demanda 
+poblacional, también decimos que el presupuesto necesario para su desarrollo es viable y 
+que la aplicación puede cumplir con un objetivo de bienestar social en el mar de 
+aplicaciones relacionadas a campos médicos, prestando sus bases para futuras 
+investigaciones de estas enfermedades.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/25620</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:42:46</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2019-01-29T20:21:21Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/87/Gamboa Jara - 2018 - Aplicación móvil para el diagnóstico preliminar de.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/25620/1/Gamboa_JK.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:42:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/64398">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UCV</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arbildo Reátegui</foaf:surname>
+                        <foaf:givenName>Charly Jack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_89"/>
+        <dc:title>Sistema de diagnóstico preliminar de pie plano y cavo en base a presiones plantares</dc:title>
+        <dcterms:abstract>Esta investigación se plantea como objetivo desarrollar un sistema para un 
+diagnóstico preliminar de pie plano en base a presiones plantares estáticas y 
+dinámicas logrando una sensibilidad y especificidad alta del sistema para así poder 
+tener un diagnóstico preliminar de las personas que padezcan de alguna patología 
+del pie en este caso pie plano a un precio cómodo , la metodología SCRUM ya 
+que nos permite desarrollar un sistema de forma ordenada mediante esta 
+metodología, como conclusión se tuvo que las patologías del pie se puede 
+diagnosticar de diferentes manera pero no todas son certeras ni con un margen de 
+resultado óptimo o son muy caras, por esta razón se propone un sistema de 
+diagnóstico preliminar de pie plano en base a presiones plantares para mejorar 
+este punto y además bajar los costos. Para finalizar, en cada proyecto se quiere 
+que tener una mejora continua por ello nosotros se recomienda a futuros 
+investigadores que les pueda parecer interesante esta tesis puedan o traten de 
+incorporar nuevas ideas al sistema.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/64398</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:43:32</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2021-07-05T18:32:58Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_89">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/89/Arbildo Reátegui - 2018 - Sistema de diagnóstico preliminar de pie plano y c.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/64398/1/Arbilo_RCJ-SD.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:43:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://repositorio.ucv.edu.pe/handle/20.500.12692/36393">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Repositorio Institucional - UCV</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acuña Sonco</foaf:surname>
+                        <foaf:givenName>José Enrique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>Aplicación móvil para el diagnóstico preliminar de cáncer bucal por medio de fotografías digitales</dc:title>
+        <dcterms:abstract>El presente trabajo de investigación tiene como objetivo principal desarrollar una aplicación 
+móvil que permita brindar un diagnostico preliminar de cáncer bucal por fotografías digitales 
+mediante análisis y aprendizaje de las redes convolucionales el cual tendrá una base de datos 
+de imágenes avaladas por especialistas del área.   
+Este proyecto de investigación se basará una investigación experimental, ya que se manipula 
+todas las variables los cuales tendrán dos grupos experimentales conformadas por las 
+personas enfermas (como grupo experimental) como las personas no enfermas (como grupo 
+de control) Los indicadores principales para este proyecto de investigación son la sensibilidad 
+y especificidad los cuales permiten identificar si conlleva o no conlleva la enfermedad.  
+Asimismo, el presente trabajo de investigación será realizado en la plataforma de IONIC 
+Framework siento como herramienta completa para este proyecto ya que puede desarrollar 
+aplicaciones hibridas tanto como para IOS, Android o Web basadas en HTML5, CSS, y JS. 
+Cave a decir que la inyección de componentes es más sencilla y no contiene muchos 
+problemas o errores de incompatibilidad. Siendo como fundamental característica de IONIC 
+es que se inspira en SDK por lo tanto es fácil de entender para cualquier persona que ha 
+construido en iOS o Android, pero lo interesante de IONIC es que se desarrolla una sola vez 
+y se puede compilar para varios sistemas. Está construido con Sass y optimizado con Angular 
+JS.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>spa</z:language>
+        <z:libraryCatalog>repositorio.ucv.edu.pe</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/handle/20.500.12692/36393</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:44:34</dcterms:dateSubmitted>
+        <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        <dc:description>Accepted: 2019-09-19T16:23:23Z
+Publisher: Universidad César Vallejo</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/Acuña Sonco - 2018 - Aplicación móvil para el diagnóstico preliminar de.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repositorio.ucv.edu.pe/bitstream/20.500.12692/36393/1/Acu%c3%b1a_SJ.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-13 17:44:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_5">
+        <dc:title>Aplicativo móvil para el diagnóstico preliminar de la enfermedad Huanglongbing con CNN en la planta del limón en la Región Piura.</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S026121942100079X"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S2405896316315841"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0885576523000711"/>
+        <dcterms:hasPart rdf:resource="http://rcs.cic.ipn.mx/2019_148_7/Deteccion%20de%20enfermedades%20en%20el%20sector%20agricola%20utilizando%20Inteligencia%20Artificial.pdf"/>
+        <dcterms:hasPart rdf:resource="https://dx.doi.org/10.1186/s13007-021-00745-2"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0925521421003471"/>
+        <dcterms:hasPart rdf:resource="https://www.recimundo.com/index.php/es/article/view/1076"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/66465"/>
+        <dcterms:hasPart rdf:resource="http://repositorio.utc.edu.ec/handle/27000/8625"/>
+        <dcterms:hasPart rdf:resource="http://repositorio.unamad.edu.pe/handle/20.500.14070/889"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/81826"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/102700"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/25620"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/64398"/>
+        <dcterms:hasPart rdf:resource="https://repositorio.ucv.edu.pe/handle/20.500.12692/36393"/>
+        <dcterms:hasPart rdf:resource="#item_69"/>
+        <dcterms:hasPart rdf:resource="http://repository.unad.edu.co/handle/10596/42374"/>
+    </z:Collection>
+</rdf:RDF>
